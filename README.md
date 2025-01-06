@@ -38,11 +38,6 @@ She/Her<br><br>
 ### Version Control:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%23004793.svg?style=flat&logo=bitbucket&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shahad-irl&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahad-irl&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahad-irl&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shahad-irl&theme=chartreuse-dark&no-frame=true&no-bg=false&margin-w=4)
 
